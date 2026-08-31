@@ -13,23 +13,23 @@ op= input("Enter the operation number: ")
 
 if op == "1":
     result = num1 + num2
-    print(f"{num1} + {num2} = {result}")
+    print(f"{num1:.2f} + {num2:.2f} = {result:.2f}")
 
 elif op == "2":
     result = num1 - num2
-    print(f"{num1} - {num2} = {result}")
+    print(f"{num1:.2f} - {num2:.2f} = {result:.2f}")
 
 elif op == "3":
     result = num1 * num2
-    print(f"{num1} * {num2} = {result}")
+    print(f"{num1:.2f} * {num2:.2f} = {result:.2f}")
 
 elif op == "4":
     if num2 != 0:
         result = num1 / num2
-        print(f"{num1} / {num2} = {result}")
+        print(f"{num1:.2f} / {num2:.2f} = {result:.2f}")
     else:
         print("Error: Cannot divide by zero")
 else:
-    print("Invalad Option")
+    print("Invalid Option")
 
    
