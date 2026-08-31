@@ -30,6 +30,6 @@ elif op == "4":
     else:
         print("Error: Cannot divide by zero")
 else:
-    print("Invaladi Option")
+    print("Invalad Option")
 
    
