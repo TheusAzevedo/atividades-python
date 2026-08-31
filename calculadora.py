@@ -3,7 +3,7 @@ print ("=== CALCULATOR ===")
 num1 = float(input("Enter the first number: "))
 num2 = float (input("Enter the second number: "))
 
-print ("Chose the operation: ")
+print ("Choose the operation: ")
 print ("1 - Addition")
 print ("2 - Subtraction")
 print ("3 - Multiplication")
