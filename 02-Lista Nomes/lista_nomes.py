@@ -1,41 +1,34 @@
-# PROGRAMA PRINCIPAL
 print("=" * 50)
-print("LISTA DE NOMES")
+print("NAME LIST")
 print("=" * 50)
 
+names = []
 
-nomes = []
-
-
-print("\nDigite 5 nomes:")
+print("\nEnter 5 names:")
 for i in range(5):
-    nome = input(f"Digite o {i+1}º nome: ")
-    nomes.append(nome)
+    name = input(f"Enter the {i+1}º name: ")
+    names.append(name)
 
 print("\n" + "=" * 50)
 
-
-print("NOMES CADASTRADOS:")
-for nome in nomes:
-    print(f"  - {nome}")
+print("REGISTERED NAMES:")
+for name in names:
+    print(f"  - {name}")
 
 print("\n" + "=" * 50)
 
-
-total = len(nomes)
-print(f"Total de nomes cadastrados: {total}")
+total = len(names)
+print(f"Total registered names: {total}")
 
 print("=" * 50)
 
+search = input("\nEnter a name to search for: ")
 
-pesquisa = input("\nDigite um nome para pesquisar: ")
-
-if pesquisa in nomes:
-    print(f"'{pesquisa}' esta na lista!")
-    # Mostra a posição do nome
-    posicao = nomes.index(pesquisa)
-    print(f"Posicao: {posicao + 1} lugar")
+if search in names:
+    print(f"'{search}' is on the list!")
+    position = names.index(search)
+    print(f"Position: {position + 1} place")
 else:
-    print(f"'{pesquisa}' NAO esta na lista!")
+    print(f"'{search}' is NOT on the list!")
 
 print("=" * 50)
