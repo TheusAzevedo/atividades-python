@@ -2,11 +2,10 @@ ALUNO(A): Matheus Dias
 DATA: 27/08/2026
 DISCIPLINA: PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO EM PYTHON
 
-<pre>
-  OBJETIVO:
+OBJETIVO:
 Praticar entrada de dados, cálculos e estruturas condicionais criando um 
 programa que calcula a média de um aluno e informa sua situação.
-</pre>
+
 
 DESCRIÇÃO:
 O programa solicita o nome e 3 notas do aluno, calcula a média e mostra:
@@ -30,11 +29,14 @@ Situação: APROVADO
 # English Version
 
 STUDENT: Matheus Dias DATE: 08/27/2026 SUBJECT: PROGRAMMING LANGUAGE PARADIGMS IN PYTHON
+
 OBJECTIVE: Practice data input, calculations, and conditional structures by creating a program that calculates a student's average and reports their status.
+
 DESCRIPTION: The program requests the student's name and 3 grades, calculates the average, and shows:
 • APPROVED (average >= 7.0)
 • REMEDIAL (average >= 5.0 and < 7.0)
 • FAILED (average < 5.0)
+
 INSTRUCTIONS:
 1. Save as media_aluno.py
 2. Run: python media_aluno.py
