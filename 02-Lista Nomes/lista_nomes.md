@@ -30,3 +30,20 @@ Nomes cadastrados: 'Ana', 'Bruno', 'Carla', 'Daniel', 'Elisa'
 Total de nomes: 5
 Digite um nome para pesquisar: Carla
 Carla está na lista!
+
+# English Version
+
+STUDENT: Matheus Dias DATE: 08/27/2026 SUBJECT: PROGRAMMING LANGUAGE PARADIGMS IN PYTHON
+OBJECTIVE: Practice list manipulation in Python, including:
+• Data insertion into a list
+• Displaying all elements
+• Counting elements
+• Searching for specific elements
+DESCRIPTION: The program registers 5 names into a list, displays all of them, shows how many were registered, and allows searching to check if a specific name is on the list.
+INSTRUCTIONS:
+1. Save as lista_nomes.py
+2. Run: python lista_nomes.py
+3. Enter 5 names
+4. Search the list
+EXAMPLE: Enter the 1st name: Ana Enter the 2nd name: Bruno Enter the 3rd name: Carla Enter the 4th name: Daniel Enter the 5th name: Elisa
+Registered names: 'Ana', 'Bruno', 'Carla', 'Daniel', 'Elisa' Total names: 5 Enter a name to search for: Carla Carla is on the list!
