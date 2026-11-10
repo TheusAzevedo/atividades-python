@@ -2,9 +2,11 @@ ALUNO(A): Matheus Dias
 DATA: 27/08/2026
 DISCIPLINA: PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO EM PYTHON
 
-OBJETIVO:
+<pre>
+  OBJETIVO:
 Praticar entrada de dados, cálculos e estruturas condicionais criando um 
 programa que calcula a média de um aluno e informa sua situação.
+</pre>
 
 DESCRIÇÃO:
 O programa solicita o nome e 3 notas do aluno, calcula a média e mostra:
