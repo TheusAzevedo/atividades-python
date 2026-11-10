@@ -45,5 +45,6 @@ INSTRUCTIONS:
 2. Run: python lista_nomes.py
 3. Enter 5 names
 4. Search the list
+
 EXAMPLE: Enter the 1st name: Ana Enter the 2nd name: Bruno Enter the 3rd name: Carla Enter the 4th name: Daniel Enter the 5th name: Elisa
 Registered names: 'Ana', 'Bruno', 'Carla', 'Daniel', 'Elisa' Total names: 5 Enter a name to search for: Carla Carla is on the list!
