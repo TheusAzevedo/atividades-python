@@ -34,12 +34,15 @@ Carla está na lista!
 # English Version
 
 STUDENT: Matheus Dias DATE: 08/27/2026 SUBJECT: PROGRAMMING LANGUAGE PARADIGMS IN PYTHON
+
 OBJECTIVE: Practice list manipulation in Python, including:
 • Data insertion into a list
 • Displaying all elements
 • Counting elements
 • Searching for specific elements
+
 DESCRIPTION: The program registers 5 names into a list, displays all of them, shows how many were registered, and allows searching to check if a specific name is on the list.
+
 INSTRUCTIONS:
 1. Save as lista_nomes.py
 2. Run: python lista_nomes.py
