@@ -12,7 +12,7 @@ Execute: python calculadora.py
 Digite os números e escolha a operação
 EXEMPLO: Digite o primeiro número: 10 Digite o segundo número: 5 Escolha a operação (1/2/3/4): 3 10.0 * 5.0 = 50.0
 
-#**English version**#
+#English version
 
 ACTIVITY: SIMPLE CALCULATOR IN PYTHON
 STUDENT: Matheus Dias
